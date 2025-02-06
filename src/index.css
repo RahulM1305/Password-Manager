@@ -5,6 +5,6 @@
 
 @layer components{
     .mycontainer{
-        @apply mx-auto container px-40 py-16;
+        @apply  container px-40 py-16 mx-auto;
     }
 }
